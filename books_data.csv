@@ -1,0 +1,6 @@
+id,book_title,author_name,publication_year,number_of_pages,book_genre,book_price,date_added
+1,1984,George Orwell,1949,328,Dystopia,9.99,2023-10-01
+2,Lord of the Flies,William Golding,1954,224,Fiction,11.59,2023-10-03
+3,To Kill a Mockingbird,Harper Lee,1960,281,Fiction,8.75,2023-10-05
+4,Wuthering Heights,Emily Brontë,1847,416,Fiction,9.27,2023-10-07
+5,Trainspotting,Irvine Welsh,1993,344,Fiction,11.13,2023-10-09
