@@ -50,3 +50,4 @@ books_df = pd.DataFrame(books_data)
 
 # Step 4: Display the DataFrame
 print(books_df)
+```
